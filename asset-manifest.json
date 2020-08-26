@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kommunicate/static/css/main.a2c1c2f3.chunk.css",
+    "main.css": "/kommunicate/static/css/main.29718211.chunk.css",
     "main.js": "/kommunicate/static/js/main.87075c2f.chunk.js",
     "main.js.map": "/kommunicate/static/js/main.87075c2f.chunk.js.map",
     "runtime-main.js": "/kommunicate/static/js/runtime-main.c2f6efa8.js",
@@ -8,15 +8,15 @@
     "static/js/2.65459871.chunk.js": "/kommunicate/static/js/2.65459871.chunk.js",
     "static/js/2.65459871.chunk.js.map": "/kommunicate/static/js/2.65459871.chunk.js.map",
     "index.html": "/kommunicate/index.html",
-    "precache-manifest.0882fe15eb4d3498025eeb57c0d5f014.js": "/kommunicate/precache-manifest.0882fe15eb4d3498025eeb57c0d5f014.js",
+    "precache-manifest.1a3c24125fa2e8f1d57c8e465546a59e.js": "/kommunicate/precache-manifest.1a3c24125fa2e8f1d57c8e465546a59e.js",
     "service-worker.js": "/kommunicate/service-worker.js",
-    "static/css/main.a2c1c2f3.chunk.css.map": "/kommunicate/static/css/main.a2c1c2f3.chunk.css.map",
+    "static/css/main.29718211.chunk.css.map": "/kommunicate/static/css/main.29718211.chunk.css.map",
     "static/js/2.65459871.chunk.js.LICENSE.txt": "/kommunicate/static/js/2.65459871.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c2f6efa8.js",
     "static/js/2.65459871.chunk.js",
-    "static/css/main.a2c1c2f3.chunk.css",
+    "static/css/main.29718211.chunk.css",
     "static/js/main.87075c2f.chunk.js"
   ]
 }
